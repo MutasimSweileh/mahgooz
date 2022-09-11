@@ -1,0 +1,55 @@
+[14-Oct-2021 22:56:19 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[14-Oct-2021 22:57:30 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 15
+[14-Oct-2021 22:57:30 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 137
+[14-Oct-2021 22:59:48 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[14-Oct-2021 23:04:49 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 15
+[14-Oct-2021 23:04:49 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 137
+[16-Oct-2021 03:01:19 Africa/Cairo] PHP Notice:  Undefined index:  in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 30
+[16-Oct-2021 03:01:19 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 30
+[16-Oct-2021 03:01:19 Africa/Cairo] PHP Notice:  Undefined index:  in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 32
+[16-Oct-2021 03:01:19 Africa/Cairo] PHP Notice:  Trying to access array offset on value of type null in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 32
+[18-Oct-2021 10:53:42 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[18-Oct-2021 10:53:42 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[22-Oct-2021 18:35:42 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[24-Oct-2021 03:32:43 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[24-Oct-2021 03:32:43 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[13-Nov-2021 23:14:55 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[13-Nov-2021 23:59:55 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[23-Nov-2021 03:48:02 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[23-Nov-2021 04:33:02 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[24-Nov-2021 14:56:22 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[25-Nov-2021 21:42:51 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[25-Nov-2021 23:57:51 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[28-Nov-2021 08:15:26 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[28-Nov-2021 09:00:26 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[30-Nov-2021 10:17:49 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[30-Nov-2021 11:02:49 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[30-Nov-2021 21:11:52 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[03-Dec-2021 20:13:37 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[04-Dec-2021 05:01:29 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[04-Dec-2021 19:07:36 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[06-Dec-2021 01:11:41 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[09-Dec-2021 09:03:48 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[13-Dec-2021 06:06:29 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[14-Dec-2021 03:30:09 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[14-Dec-2021 04:15:09 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[14-Dec-2021 20:21:17 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[16-Dec-2021 09:36:23 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 15
+[16-Dec-2021 09:36:23 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 138
+[16-Dec-2021 11:44:26 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 15
+[16-Dec-2021 11:44:26 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/checkout.php on line 138
+[16-Dec-2021 20:30:38 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[16-Dec-2021 22:45:37 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[04-Jan-2022 20:21:58 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[05-Jan-2022 07:53:11 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[07-Jan-2022 21:13:21 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[11-Jan-2022 09:24:41 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[19-Jan-2022 10:46:50 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[21-Jan-2022 15:06:32 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[24-Jan-2022 20:12:11 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[27-Jan-2022 12:42:25 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[03-Feb-2022 02:24:27 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[05-Feb-2022 19:54:24 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[07-Feb-2022 13:32:52 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[13-Feb-2022 06:01:41 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
+[13-Feb-2022 06:01:59 Africa/Cairo] PHP Notice:  Trying to get property 'id' of non-object in /home/zxd2gpmphgc5/public_html/inc/template/cart.php on line 8
